@@ -1,0 +1,2 @@
+# srisat
+simple sat solver
