@@ -1,2 +1,2 @@
 # srisat
-simple sat solver
+Simple SAT solver
